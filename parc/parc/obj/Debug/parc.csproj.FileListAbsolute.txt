@@ -1,0 +1,12 @@
+c:\users\lab3\documents\visual studio 2013\Projects\parc\parc\bin\Debug\parc.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\parc\parc\obj\Debug\parc.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\parc\parc\obj\Debug\parc.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\parc\parc\obj\Debug\parc.Form2.resources
+c:\users\lab3\documents\visual studio 2013\Projects\parc\parc\obj\Debug\parc.MDIParent1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\parc\parc\obj\Debug\parc.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\parc\parc\obj\Debug\parc.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\parc\parc\bin\Debug\parc.exe
+c:\users\lab3\documents\visual studio 2013\Projects\parc\parc\bin\Debug\parc.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\parc\parc\obj\Debug\parc.exe
+c:\users\lab3\documents\visual studio 2013\Projects\parc\parc\obj\Debug\parc.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\parc\parc\obj\Debug\parc.Form3.resources
